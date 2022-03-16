@@ -1,16 +1,8 @@
-# foodhub
+#FoodHub App
 
-A new Flutter project.
+##Created By : Fahmi Ismail Atthoilah
 
-## Getting Started
+###Dibuat untuk memenuhi submisi Kelas Belajar Membuat Aplikasi Flutter untuk Pemula pada Dicoding
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Design from figma
+![foodhub](https://user-images.githubusercontent.com/56238751/158598449-d6ffa89b-95bb-4142-ad08-d58bce6fcd46.png)
